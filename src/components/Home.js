@@ -13,7 +13,7 @@ function Home() {
                 </div>
                 <div className="text-wrapper item">
                     <span>
-                        I-Phone
+                        I-Phone test
                     </span>
                     <span>
                         Price: $1000.00
